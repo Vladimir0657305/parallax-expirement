@@ -129,7 +129,7 @@ for (var i = 0; i < elements.length; i++) {
             attributes.division = 4;
         }
 
-        console.log(attributes.division);
+        // console.log(attributes.division);
 
         /**
          * Create instance

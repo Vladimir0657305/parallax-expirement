@@ -1,17 +1,25 @@
-.big img {
+.big  {
     width: 100%;
     /* height: 500px; */
-    aspect-ratio: 4 / 2;
-    z-index: -1;
+    /* z-index: -1; */
+    /* background-size: 100%; */
+    position: relative;
+}
+.big img {
+    /* scale: .8; */
+    /* aspect-ratio: 10 / 1; */
+    /* object-fit:cover; */
 }
 .small {
     /* margin-top: 200px; */
-    z-index: 20;
-    position: relative;
+    /* z-index: 20; */
+    /* position: relative; */
+    position: absolute;
+    top: 60%;
 }
 .small h1 {
-    /* position: absolute; */
+    /* position: absolute;
     top: 230px;
     left: 50%;
-    color: #fff;
+    color: #fff; */
 }
