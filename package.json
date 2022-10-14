@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "perspective.js": "^1.0.0",
+    "universal-parallax": "^1.3.2"
+  }
+}
